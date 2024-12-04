@@ -1,5 +1,5 @@
 # Introduction
-
+In this project, I analyzed flu jab data from 2022 to evaluate vaccination trends, compliance rates, and demographic patterns. Using SQL to extract and prepare the data and Tableau to create visualizations, I developed a comprehensive dashboard. The dashboard highlights key metrics such as flu jabs by age and race, vaccination percentages by county, total compliance rates, and a running sum of jabs over time. This analysis aimed to provide actionable insights to support public health efforts in improving vaccination outreach and accessibility.
 # Quick Link
 
 [Dashboard](https://public.tableau.com/views/ERDashboard_17329809147010/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
