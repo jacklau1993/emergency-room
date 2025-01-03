@@ -1,4 +1,5 @@
 # Introduction
+In this project, I analyzed Emergency Room (ER) data to uncover trends and insights related to patient demographics, wait times, satisfaction scores, and departmental referrals. Using Tableau, I created an interactive dashboard that visualizes key metrics such as patient distribution by race and age group, average wait times, satisfaction trends, and referral patterns. This project demonstrates my ability to transform raw healthcare data into actionable insights, supporting data-driven decision-making to enhance patient care and operational efficiency.
 
 # Quick Link
 
